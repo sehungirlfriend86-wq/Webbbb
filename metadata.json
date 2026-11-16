@@ -1,0 +1,6 @@
+{
+  "name": "JKT48 Official Web Shop - Toko Merchandise Resmi",
+  "description": "Website resmi penjualan merchandise, photocard SSR, album, dan lightstick JKT48. Lokasi toko: Jl. Raya Rohngawi Jawir timur kabupaten ngawiland, Telp: 62192807322.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
